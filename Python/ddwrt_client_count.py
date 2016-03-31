@@ -2,7 +2,7 @@
 # Nome:      ddwrt_client_count
 # Descrição: Plugin do Nagios para retornar o número de usuários conectados
 #            em um roteador com a firmware dd-wrt através da quantidade de
-#            MAC leases.
+#            DHCP leases.
 #
 # Obs.: O acesso telnet deve estar habilitado para o funcionamento do script.
 #
